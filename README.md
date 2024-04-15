@@ -11,5 +11,7 @@ RMS 오차 = {rms}
 
 
 
-https://github.com/aikozvezda/Camera-Calibration/assets/144213771/1618ee44-3d81-4b01-8268-defa7574585c
+
+
+https://github.com/aikozvezda/Camera-Calibration/assets/144213771/23f58e2f-7e8c-4161-9e1b-8cf61d81ecac
 
